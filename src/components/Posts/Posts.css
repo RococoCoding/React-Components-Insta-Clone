@@ -24,9 +24,9 @@
 .post-image {
   width: 100%;
 }
-.post-header {
+/* .post-header {
   display: flex;
-}
+} */
 .post-thumb-wrapper {
   height: 50px;
   width: 50px;
